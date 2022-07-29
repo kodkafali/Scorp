@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scorp</string>
+    <string name="todo">TODO</string>
+
+    <string name="empty_message">Kişi bulunamadı, yenilemek için tıklayın.</string>
+    <string name="error_message">Hata oluştu, yenilemek için tıklayın.</string>
+</resources>

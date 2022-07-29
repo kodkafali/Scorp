@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_dropdown_item_1line.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_single_choice.xml" value="0.21732522796352582" />
+        <entry key="..\:/Users/user/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/drawable/ic_round_person_outline_24.xml" value="0.2245" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/activity_main.xml" value="0.16058763931104356" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/fragment_user.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/list_item.xml" value="0.1" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/loading_item.xml" value="0.21732522796352582" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/recipe_item.xml" value="0.453646477132262" />
+        <entry key="..\:/Users/user/Desktop/scorp/app/src/main/res/layout/spinner_item.xml" value="0.1621376811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
